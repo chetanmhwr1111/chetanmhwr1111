@@ -26,13 +26,13 @@ Lately, I am heavily focused on bringing next-generation intelligence to enginee
 ## Skills & Tech Stack
 
 ### 🚀 Core Engineering Tools
-![Ansys]([https://shields.io](https://seeklogo.com/vector-logo/508830/ansys)) ![FEA / FEM](https://shields.io) ![Structural Analysis](https://shields.io) ![Mechanical Engineering](https://shields.io)
+![Ansys](https://shields.io) ![FEA / FEM](https://shields.io) ![Structural Analysis](https://shields.io) ![Mechanical Engineering](https://shields.io)
 
 ### 🤖 Automation & CAE Intelligence
 ![Automation Workflow](https://shields.io) ![Agentic AI](https://shields.io) ![Generic MCPs](https://shields.io) ![PyMCPs for CAE](https://shields.io)
 
 ### 💻 Programming & Scripting
-![Python](https://shields.io) 
+![Python](https://shields.io) ![Git](https://shields.io) ![Bash](https://shields.io)
 
 ---
 

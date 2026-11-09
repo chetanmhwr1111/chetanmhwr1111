@@ -1,8 +1,8 @@
-# Hi there, I am a Physics-Driven Simulation Specialist 👋
+# Hi there, I am a Structures Simulation Engineer 👋
 
-I am passionate about transforming real-world engineering behavior into accurate virtual models. With hands-on experience in structural and mechanical analysis, I leverage advanced simulation software to provide reliable engineering insights, optimized designs, and technically sound decisions. 
+I am passionate about transforming real-world engineering behavior into accurate virtual models. With hands-on experience in structural and mechanical analysis, I leverage advanced simulation software to provide reliable engineering insights and optimized designs with technically sound decision
 
-Lately, I am heavily focused on bringing next-generation intelligence to engineering by building **system-level automation workflows for CAE/FEM**, and actively upskilling on **Agentic AI, Generic MCPs (Model Context Protocol), and PyMCPs** to inject core intelligence into traditional CAE setups.
+Lately, I am focused on bringing next-generation intelligence to engineering by building **system-level automation workflows for CAE/FEM**, and actively upskilling on **Agentic AI, Generic MCPs (Model Context Protocol), and PyMCPs** to inject core intelligence into traditional CAE setups.
 
 ---
 
@@ -17,7 +17,7 @@ Lately, I am heavily focused on bringing next-generation intelligence to enginee
 * 🤖 **Next-Gen CAE Automation & AI Integration**
     * Designing end-to-end system-level automation workflows to accelerate repetitive CAE tasks.
     * Integrating Agentic AI frameworks and PyMCPs to enable smart, self-correcting engineering simulations.
-* 🎓 **One-on-One Training & Mentorship**
+* 🎓 **One-on-One Mentorship**
     * Providing structured, practical, and highly affordable mentorship programs.
     * Subjects: Applied Physics, Mechanical Engineering, Finite Element Method (FEM/FEA), Composite Materials & Modeling.
 

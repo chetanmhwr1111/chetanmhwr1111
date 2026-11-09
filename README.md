@@ -25,14 +25,21 @@ Lately, I am focused on bringing next-generation intelligence to engineering by 
 
 ## Skills & Tech Stack
 
-### 🚀 Core Engineering Tools
-![Ansys](https://shields.io) ![FEA / FEM](https://shields.io) ![Structural Analysis](https://shields.io) ![Mechanical Engineering](https://shields.io)
+🚀 Core Engineering
+• Ansys • Virtual Prototyping 🔬
+• FEA / FEM • Stress & Strain 📐
+• Structural Analysis • Load & Mechanics 🏗️
+• Mechanical Engineering • Physical Behavior ⚙️
 
-### 🤖 Automation & CAE Intelligence
-![Automation Workflow](https://shields.io) ![Agentic AI](https://shields.io) ![Generic MCPs](https://shields.io) ![PyMCPs for CAE](https://shields.io)
+🤖 Automation & CAE Intelligence
+• Automation Workflows • Zero-Friction Pipelines ⚡
+• Agentic AI • Intelligent Simulation 🧠
+• Generic MCPs • Contextual Protocols 🔌
+• PyMCPs for CAE • Next-Gen Engineering APIs 🛠️
 
-### 💻 Programming & Scripting
-![Python](https://shields.io) 
+💻 Programming & Scripting
+• Python • The Automation Spine 🐍
+
 ---
 
 ### 🤝 Let's Collaborate
